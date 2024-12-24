@@ -1,0 +1,32 @@
+[
+  {
+    "empId": "EM02",
+    "empName": "John Doe",
+    "empBirthday": "1990-05-14"
+  },
+  {
+    "empId": "EM03",
+    "empName": "Jane Smith",
+    "empBirthday": "1985-09-22"
+  },
+  {
+    "empId": "EM05",
+    "empName": "John",
+    "empBirthday": 12032938
+  },
+  {
+    "empId": "EM04",
+    "empName": "John",
+    "empBirthday": 12032938
+  },
+  {
+    "empId": "EM01",
+    "empName": "John",
+    "empBirthday": 12032938
+  },
+  {
+    "empId": "EM07",
+    "empName": "John",
+    "empBirthday": 12032938
+  }
+]
